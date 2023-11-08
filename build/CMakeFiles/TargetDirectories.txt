@@ -1,3 +1,0 @@
-/home/huheng/codes/cc/Class.c/build/CMakeFiles/test.dir
-/home/huheng/codes/cc/Class.c/build/CMakeFiles/edit_cache.dir
-/home/huheng/codes/cc/Class.c/build/CMakeFiles/rebuild_cache.dir
