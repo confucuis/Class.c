@@ -1,27 +1,27 @@
-#include "test.h"
 #include <iostream>
+#include "calculate.h"
 
 using namespace std;
 
 // 构造函数
-Test::Test(int a, int b)
+Calculate::Calculate(int a, int b)
 {
     this->a = a;
     this->b = b;
 }
 
 // 析构函数
-Test::~Test(void)
+Calculate::~Calculate(void)
 {
     std::cout << "析构函数: 无参数,无返回值\n";
 }
 
-int Test::add(void)
+int Calculate::add(void)
 {
     return this->a + this->b;
 }
 
-int Test::pls(void)
+int Calculate::pls(void)
 {
     return this->a - this->b;
 }
