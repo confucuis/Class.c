@@ -10,7 +10,9 @@ public:
     Calculate(int a, int b);
     ~Calculate(void);
     int add(void);
-    int pls(void);
+    int sub(void);
+    int mul(void);
+    int div(void);
 };
 
 #endif // _TEST_

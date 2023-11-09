@@ -21,9 +21,17 @@ int Calculate::add(void)
     return this->a + this->b;
 }
 
-int Calculate::pls(void)
+int Calculate::sub(void)
 {
     return this->a - this->b;
 }
 
+int Calculate::mul(void)
+{
+    return this->a * this->b;
+}
 
+int Calculate::div(void)
+{
+    return this->a / this->b;
+}
