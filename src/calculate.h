@@ -15,4 +15,4 @@ public:
     int div(void);
 };
 
-#endif // _TEST_
+#endif // _CALCULATE_
