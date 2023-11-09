@@ -7,6 +7,6 @@
 
 编译:
 ====
-  - 在项目跟目录新建build文件夹: mkdir build
+  - 在项目根目录新建build文件夹: mkdir build
   - cd build && cmake .. && make
   - 在build目录下生成对应的目标二进制文件
